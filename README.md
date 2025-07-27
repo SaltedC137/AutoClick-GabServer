@@ -1,0 +1,1 @@
+# An auto-click tool to snag 38-yuan/year servers on Tencent Cloud.
